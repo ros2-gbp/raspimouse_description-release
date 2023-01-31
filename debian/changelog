@@ -1,0 +1,15 @@
+ros-humble-raspimouse-description (1.0.1-1jammy) jammy; urgency=high
+
+  * Updates README
+  * Update the license year to 2022
+  * Adds LiDAR (#38 <https://github.com/rt-net/raspimouse_description/issues/38>)
+  * Update library to rviz2 (#36 <https://github.com/rt-net/raspimouse_description/issues/36>)
+  * Update tread (ROS 2) (#32 <https://github.com/rt-net/raspimouse_description/issues/32>)
+  * Update README for ROS 2 (#26 <https://github.com/rt-net/raspimouse_description/issues/26>)
+  * Support ROS 2 Foxy (#24 <https://github.com/rt-net/raspimouse_description/issues/24>)
+  * Create LICENSE
+  * Contributors: Daisuke Sato, Shota Aoki, Shuhei Kozasa
+
+ -- RT Corporation <shop@rt-net.jp>  Mon, 30 Jan 2023 15:00:00 -0000
+
+

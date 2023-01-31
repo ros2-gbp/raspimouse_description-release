@@ -12,9 +12,9 @@ The main development branch for ROS 2 is [`ros2`](https://github.com/rt-net/rasp
 
 ## Supported ROS distributions
 
-- ~~Kinetic ([`kinetic-devel`](https://github.com/rt-net/raspimouse_description/tree/kinetic-devel))~~ deprecated
 - Melodic ([`melodic-devel`](https://github.com/rt-net/raspimouse_description/tree/melodic-devel))
 - Foxy ([`foxy-devel`](https://github.com/rt-net/raspimouse_description/tree/foxy-devel))
+- Humble ([`humble-devel`](https://github.com/rt-net/raspimouse_description/tree/humble-devel))
 
 ## Installation
 
@@ -48,7 +48,7 @@ The `lidar` option supports `urg`, `lds`, and `rplidar`.
 
 ## LICENSE
 
-(C) 2016-2021 RT Corporation
+(C) 2016-2022 RT Corporation
 
 This repository is licensed under the MIT license, see [LICENSE](./LICENSE).  
 Unless attributed otherwise, everything in this repository is under the MIT license.

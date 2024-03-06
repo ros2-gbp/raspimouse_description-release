@@ -1,3 +1,26 @@
+## raspimouse_description (humble) - 1.2.0-1
+
+The packages in the `raspimouse_description` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble raspimouse_description` on `Wed, 06 Mar 2024 09:31:01 -0000`
+
+The `raspimouse_description` package was released.
+
+Version of package(s) in repository `raspimouse_description`:
+
+- upstream repository: https://github.com/rt-net/raspimouse_description.git
+- release repository: https://github.com/ros2-gbp/raspimouse_description-release.git
+- rosdistro version: `1.1.0-1`
+- old version: `1.1.0-1`
+- new version: `1.2.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## raspimouse_description (humble) - 1.1.0-1
 
 The packages in the `raspimouse_description` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble raspimouse_description` on `Tue, 07 Nov 2023 07:07:16 -0000`

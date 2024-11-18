@@ -1,0 +1,58 @@
+ros-jazzy-raspimouse-description (2.0.0-1bookworm) bookworm; urgency=high
+
+  * Support ROS 2 Jazzy (#55 <https://github.com/rt-net/raspimouse_description/issues/55>)
+    Co-authored-by: Kazushi Kurasawa <mailto:Kurasawa@rt-net.jp>
+  * Replace ign to gz
+  * Updated the remapping for subscription to reflect the removal of unstamped from ros2_controllers <https://github.com/ros-controls/ros2_controllers/blob/57c50e584e33b316dd64801916cf6d951e0cff5b/tricycle_controller/CHANGELOG.rst#4100-2024-07-01>
+  * Contributors: YusukeKato
+
+ -- RT Corporation <shop@rt-net.jp>  Thu, 07 Nov 2024 15:00:00 -0000
+
+ros-jazzy-raspimouse-description (1.2.0-1bookworm) bookworm; urgency=high
+
+  * シミュレータ環境でscanトピックをpublish (#52 <https://github.com/rt-net/raspimouse_description/issues/52>)
+  * camera_downwardがtrueのときRGBカメラが斜め下を向くように変更 (#50 <https://github.com/rt-net/raspimouse_description/issues/50>)
+    Co-authored-by: Shota Aoki <mailto:s.aoki@rt-net.jp>
+  * READMEにRGBカメラを表示するコマンドを追記 (#47 <https://github.com/rt-net/raspimouse_description/issues/47>)
+  * Gazebo上で画像トピックを配信できるように変更 (#46 <https://github.com/rt-net/raspimouse_description/issues/46>)
+  * RGBカメラのモデルを表示できるように変更 (#45 <https://github.com/rt-net/raspimouse_description/issues/45>)
+    Co-authored-by: Shota Aoki <mailto:s.aoki@rt-net.jp>
+  * cmd_velとodomのトピック名をremapping (#44 <https://github.com/rt-net/raspimouse_description/issues/44>)
+  * controller managerが起動するように変更 (#43 <https://github.com/rt-net/raspimouse_description/issues/43>)
+    Co-authored-by: Shota Aoki <mailto:s.aoki@rt-net.jp>
+  * robot_description_loaderを実装 (#42 <https://github.com/rt-net/raspimouse_description/issues/42>)
+    Co-authored-by: Daisuke Sato <mailto:daisuke.sato@rt-net.jp>
+  * Contributors: YusukeKato
+
+ -- RT Corporation <shop@rt-net.jp>  Mon, 04 Mar 2024 15:00:00 -0000
+
+ros-jazzy-raspimouse-description (1.1.0-1bookworm) bookworm; urgency=high
+
+  * READMEにRGBカメラを表示するコマンドを追記 (#47 <https://github.com/rt-net/raspimouse_description/issues/47>)
+  * Gazebo上で画像トピックを配信できるように変更 (#46 <https://github.com/rt-net/raspimouse_description/issues/46>)
+  * RGBカメラのモデルを表示できるように変更 (#45 <https://github.com/rt-net/raspimouse_description/issues/45>)
+    Co-authored-by: Shota Aoki <mailto:s.aoki@rt-net.jp>
+  * cmd_velとodomのトピック名をremapping (#44 <https://github.com/rt-net/raspimouse_description/issues/44>)
+  * controller managerが起動するように変更 (#43 <https://github.com/rt-net/raspimouse_description/issues/43>)
+    Co-authored-by: Shota Aoki <mailto:s.aoki@rt-net.jp>
+  * robot_description_loaderを実装 (#42 <https://github.com/rt-net/raspimouse_description/issues/42>)
+    Co-authored-by: Daisuke Sato <mailto:daisuke.sato@rt-net.jp>
+  * Contributors: YusukeKato
+
+ -- RT Corporation <shop@rt-net.jp>  Mon, 06 Nov 2023 15:00:00 -0000
+
+ros-jazzy-raspimouse-description (1.0.1-1bookworm) bookworm; urgency=high
+
+  * Updates README
+  * Update the license year to 2022
+  * Adds LiDAR (#38 <https://github.com/rt-net/raspimouse_description/issues/38>)
+  * Update library to rviz2 (#36 <https://github.com/rt-net/raspimouse_description/issues/36>)
+  * Update tread (ROS 2) (#32 <https://github.com/rt-net/raspimouse_description/issues/32>)
+  * Update README for ROS 2 (#26 <https://github.com/rt-net/raspimouse_description/issues/26>)
+  * Support ROS 2 Foxy (#24 <https://github.com/rt-net/raspimouse_description/issues/24>)
+  * Create LICENSE
+  * Contributors: Daisuke Sato, Shota Aoki, Shuhei Kozasa
+
+ -- RT Corporation <shop@rt-net.jp>  Mon, 30 Jan 2023 15:00:00 -0000
+
+
